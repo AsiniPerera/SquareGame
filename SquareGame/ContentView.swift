@@ -20,9 +20,6 @@ enum GameLevel: String {
         case .easy: return 3
         case .medium: return 5
         case .hard: return 7
-        }
-    }
-}
 
 // MARK: - Home Screen
 struct ContentView: View {
